@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey I'm Anuja <br>Web Developer <br>
+Hey I'm Anuja <br>I'm a Web Developer <br>
 
 
 ## 🌐 Socials:

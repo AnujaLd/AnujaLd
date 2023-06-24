@@ -24,19 +24,15 @@
 
 ###
 
-<h4 align="center">Welcome</h4>
+<h4 align="center">About Me</h4>
 
 ###
 
-<h4 align="left">About Me</h4>
+<p align="center">Welcome to my GitHub profile! I'm Anuja Dewnim, a passionate Full Stack Web Developer with expertise in building scalable and user-friendly web applications. This repository serves as a showcase of my projects, skills, and contributions in the field of web development</p>
 
 ###
 
-<p align="left">Welcome to my GitHub profile! I'm Anuja Dewnim, a passionate Full Stack Web Developer with expertise in building scalable and user-friendly web applications. This repository serves as a showcase of my projects, skills, and contributions in the field of web development</p>
-
-###
-
-<h4 align="left">Tech Stack</h4>
+<h4 align="center">Tech Stack</h4>
 
 ###
 

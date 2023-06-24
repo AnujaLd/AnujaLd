@@ -74,7 +74,7 @@
 
 ###
 
-<h4 align="left">My Stats :</h4>
+<h4 align="center">My Stats</h4>
 
 ###
 

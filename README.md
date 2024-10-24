@@ -25,7 +25,7 @@
 
 ###
 
-<p align="center">Welcome to my GitHub profile! I'm Anuja Dewnim, a passionate Full Stack Web Developer with expertise in building scalable and user-friendly web applications. This repository serves as a showcase of my projects, skills, and contributions in the field of web development</p>
+<p align="center">Highly motivated and aspiring software engineering undergraduate student with a passion for technology and innovation. Proficient in multiple programming languages and experienced in developing robust and scalable applications.</p>
 
 ###
 

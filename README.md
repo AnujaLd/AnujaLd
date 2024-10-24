@@ -68,14 +68,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
 </div>
 
-###
-
-<h4 align="center">My Stats</h4>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AnujaLd&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
